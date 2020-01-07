@@ -17,7 +17,6 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <asp:Button ID="Button1" runat="server" CssClass="auto-style1" Height="27px" Text="Button" Width="177px" />
             <asp:Button ID="Button2" runat="server" CssClass="auto-style1" Height="27px" Text="Button" Width="177px" />
             <asp:Button ID="Button3" runat="server" CssClass="auto-style1" Height="27px" Text="Button" Width="177px" />
             <asp:Button ID="Button4" runat="server" CssClass="auto-style1" Height="27px" Text="Button" Width="177px" />
