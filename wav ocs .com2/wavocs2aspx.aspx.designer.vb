@@ -68,6 +68,15 @@ Partial Public Class wavocs2aspx
     Protected WithEvents Button4 As Global.System.Web.UI.WebControls.Button
 
     '''<summary>
+    '''LoginStatus1 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents LoginStatus1 As Global.System.Web.UI.WebControls.LoginStatus
+
+    '''<summary>
     '''Image1 control.
     '''</summary>
     '''<remarks>
