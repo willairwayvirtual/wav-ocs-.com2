@@ -20,6 +20,7 @@
             <asp:Button ID="Button2" runat="server" CssClass="auto-style1" Height="27px" Text="Button" Width="177px" />
             <asp:Button ID="Button3" runat="server" CssClass="auto-style1" Height="27px" Text="Button" Width="177px" />
             <asp:Button ID="Button4" runat="server" CssClass="auto-style1" Height="27px" Text="Button" Width="177px" />
+            <asp:Button ID="Button5" runat="server" CssClass="auto-style1" Height="27px" Text="Button" Width="177px" />
             <asp:Image ID="Image1" runat="server" Height="125px" ImageUrl="~/SRFTHFH.png" Width="1593px" />
             <br />
         </div>
