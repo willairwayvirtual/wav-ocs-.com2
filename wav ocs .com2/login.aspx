@@ -108,7 +108,7 @@
         <p class="auto-style13">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <asp:Button ID="Button1l" runat="server" BackColor="#FF9900" CssClass="auto-style6" Height="41px" Text="Login" Width="315px" />
-            <asp:Button ID="Button4" runat="server" BackColor="#666666" BorderColor="White" CssClass="auto-style6" Height="42px" Text="Need an account?" Width="327px" />
+            <asp:Button ID="Button4" runat="server" BackColor="#666666" BorderColor="White" CssClass="auto-style6" Height="42px" Text="register" Width="327px" />
         </p>
         <p class="auto-style12">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
