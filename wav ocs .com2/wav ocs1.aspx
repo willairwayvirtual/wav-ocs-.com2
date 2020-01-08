@@ -17,9 +17,9 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <asp:Button ID="Button3" runat="server" CssClass="auto-style1" Height="27px" Text="Button" Width="177px" />
-            <asp:Button ID="Button4" runat="server" CssClass="auto-style1" Height="27px" Text="Button" Width="177px" />
-            <asp:Button ID="Button5" runat="server" CssClass="auto-style1" Height="27px" Text="Button" Width="177px" />
+            <asp:Button ID="Button3" runat="server" CssClass="auto-style1" Height="27px" Text="Button" Width="177px" BackColor="#000099" ForeColor="White" />
+            <asp:Button ID="Button4" runat="server" CssClass="auto-style1" Height="27px" Text="Button" Width="177px" BackColor="#000099" ForeColor="White" />
+            <asp:Button ID="Button5" runat="server" CssClass="auto-style1" Height="27px" Text="Button" Width="177px" BackColor="#000099" ForeColor="White" />
             <br />
             <asp:Image ID="Image1" runat="server" CssClass="auto-style1" Height="71px" ImageUrl="~/SRFTHFH.png" Width="1581px" />
             <br />
