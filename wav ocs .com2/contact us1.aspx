@@ -80,7 +80,8 @@
             <asp:TextBox ID="Qry" runat="server" BackColor="#000079" CssClass="auto-style10" ForeColor="White" Height="204px" style="font-size: large" TextMode="MultiLine" Width="1640px">Qry</asp:TextBox>
             <table class="auto-style2">
                 <tr>
-                    <td class="auto-style14">&nbsp;<asp:Button ID="Button7" runat="server" BackColor="#000079" ForeColor="White" Height="31px" Text="send message" Width="1650px" />
+                    <td class="auto-style14">&nbsp;<asp:CheckBox ID="CheckBox1" runat="server" Text="Im not a robot" />
+                        <asp:Button ID="Button7" runat="server" BackColor="#000079" ForeColor="White" Height="31px" Text="send message" Width="1650px" />
                         &nbsp;<br />
                         &nbsp;
                         <asp:Label ID="Label5" runat="server" CssClass="auto-style6" Text="send ticket"></asp:Label>
@@ -91,6 +92,9 @@
                             </tr>
                         </table>
                     </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
                 </tr>
             </table>
         </div>
