@@ -59,7 +59,10 @@
         .auto-style1 {
             text-align: center;
         }
-        </style>
+        .auto-style18 {
+            font-size: xx-large;
+        }
+    </style>
 </head>
 <body>
     <form id="form1" runat="server">
@@ -72,12 +75,12 @@
             <br />
             <asp:Image ID="Image1" runat="server" CssClass="auto-style1" Height="71px" ImageUrl="~/SRFTHFH.png" Width="1581px" />
             <br />
-        </div>
-            <br />
-        </div>
-        <div>
             <div class="auto-style10">
-                Welcome to Willairways Virtual ocs game&nbsp; please enter you username and password </div>
+                Welcome to Willairways Virtual ocs game&nbsp; please enter you username and password
+                <br />
+                if you have Willairways Virtual<span class="auto-style18">Account&nbsp; please enter you username and password </span>
+            </div>
+        </div>
             <table class="auto-style2">
                 <tr>
                     <td class="auto-style3">Username</td>
@@ -98,6 +101,9 @@
                     </td>
                 </tr>
             </table>
+            <br />
+        </div>
+        <div>
         </div>
         <p class="auto-style13">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
