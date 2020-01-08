@@ -51,7 +51,7 @@
     <form id="form1" runat="server">
         <div>
             <asp:Button ID="Button3" runat="server" CssClass="auto-style1" Height="27px" Text="support" Width="177px" BackColor="#000099" ForeColor="White" />
-            <asp:Button ID="Button4" runat="server" CssClass="auto-style1" Height="27px" Text="contact us" Width="177px" BackColor="#000099" ForeColor="White" />
+            <asp:Button ID="Button4" runat="server" CssClass="auto-style1" Height="23px" Text="contact us" Width="177px" BackColor="#000099" ForeColor="White" />
             <asp:Button ID="Button5" runat="server" CssClass="auto-style1" Height="27px" Text="login" Width="177px" BackColor="#000099" ForeColor="White" />
             <asp:Button ID="Button6" runat="server" CssClass="auto-style1" Height="27px" Text="purchase wav ocs game" Width="177px" BackColor="#000099" ForeColor="White" />
             <br />
