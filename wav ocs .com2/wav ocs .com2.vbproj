@@ -94,7 +94,9 @@
   <ItemGroup>
     <Content Include="contact us1.aspx" />
     <Content Include="contact2.aspx" />
+    <Content Include="Create an Accountaspx.aspx" />
     <Content Include="EJGGGW.PNG" />
+    <Content Include="login.aspx" />
     <Content Include="SRFTHFH.png" />
     <Content Include="support1.aspx" />
     <Content Include="support2.aspx" />
@@ -115,6 +117,20 @@
     </Compile>
     <Compile Include="contact2.aspx.vb">
       <DependentUpon>contact2.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Create an Accountaspx.aspx.designer.vb">
+      <DependentUpon>Create an Accountaspx.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Create an Accountaspx.aspx.vb">
+      <DependentUpon>Create an Accountaspx.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="login.aspx.designer.vb">
+      <DependentUpon>login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="login.aspx.vb">
+      <DependentUpon>login.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
