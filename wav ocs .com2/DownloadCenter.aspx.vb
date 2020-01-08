@@ -1,4 +1,4 @@
-﻿Public Class support2
+﻿Public Class DownloadCenter
     Inherits System.Web.UI.Page
 
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
@@ -15,9 +15,5 @@
 
     Private Sub Button5_Click(sender As Object, e As EventArgs) Handles Button5.Click
         Response.Redirect("wav ocs1.aspx")
-    End Sub
-
-    Private Sub Button6_Click(sender As Object, e As EventArgs) Handles Button6.Click
-        Response.Redirect("DownloadCenter.aspx")
     End Sub
 End Class

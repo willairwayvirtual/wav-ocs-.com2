@@ -16,4 +16,8 @@
     Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
         Response.Redirect("contact2.aspx")
     End Sub
+
+    Private Sub Button6_Click(sender As Object, e As EventArgs) Handles Button6.Click
+        Response.Redirect("DownloadCenter.aspx")
+    End Sub
 End Class
