@@ -17,7 +17,22 @@
             margin-right: 4px;
             margin-top: 3px;
         }
-        </style>
+        .auto-style4 {
+            width: 100%;
+            border: 1px solid #0000FF;
+        }
+        .auto-style5 {
+            width: 883px;
+        }
+        .auto-style6 {
+            width: 883px;
+            text-align: center;
+            font-size: x-large;
+        }
+        .auto-style7 {
+            margin-left: 0px;
+        }
+    </style>
 </head>
 <body>
     <form id="form1" runat="server">
@@ -33,6 +48,20 @@
             <asp:Image ID="Image1" runat="server" CssClass="auto-style1" Height="71px" ImageUrl="~/SRFTHFH.png" Width="1532px" />
         </div>
         </div>
+        <table class="auto-style4">
+            <tr>
+                <td class="auto-style6">WAVOCS setup(x86)</td>
+                <td>&nbsp;</td>
+                <td>
+                    <asp:Button ID="Button7" runat="server" BackColor="#0000CC" CssClass="auto-style7" ForeColor="White" Text="Download now" Width="1067px" />
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style5">&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+        </table>
     </form>
 </body>
 </html>
