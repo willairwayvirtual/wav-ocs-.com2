@@ -92,14 +92,31 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="contact us1.aspx" />
+    <Content Include="contact2.aspx" />
     <Content Include="EJGGGW.PNG" />
     <Content Include="SRFTHFH.png" />
     <Content Include="support1.aspx" />
+    <Content Include="support2.aspx" />
     <Content Include="wav ocs1.aspx" />
     <Content Include="wavocs2aspx.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="contact us1.aspx.designer.vb">
+      <DependentUpon>contact us1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="contact us1.aspx.vb">
+      <DependentUpon>contact us1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="contact2.aspx.designer.vb">
+      <DependentUpon>contact2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="contact2.aspx.vb">
+      <DependentUpon>contact2.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -124,6 +141,13 @@
     </Compile>
     <Compile Include="support1.aspx.vb">
       <DependentUpon>support1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="support2.aspx.designer.vb">
+      <DependentUpon>support2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="support2.aspx.vb">
+      <DependentUpon>support2.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="wav ocs1.aspx.designer.vb">
