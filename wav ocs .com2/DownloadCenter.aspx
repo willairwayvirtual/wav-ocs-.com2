@@ -30,6 +30,7 @@
             font-size: x-large;
         }
         .auto-style7 {
+            font-size: x-large;
             margin-left: 0px;
         }
     </style>
