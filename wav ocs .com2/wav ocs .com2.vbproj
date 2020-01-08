@@ -94,6 +94,7 @@
   <ItemGroup>
     <Content Include="EJGGGW.PNG" />
     <Content Include="SRFTHFH.png" />
+    <Content Include="support1.aspx" />
     <Content Include="wav ocs1.aspx" />
     <Content Include="wavocs2aspx.aspx" />
     <Content Include="Web.config" />
@@ -117,6 +118,13 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="support1.aspx.designer.vb">
+      <DependentUpon>support1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="support1.aspx.vb">
+      <DependentUpon>support1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="wav ocs1.aspx.designer.vb">
       <DependentUpon>wav ocs1.aspx</DependentUpon>

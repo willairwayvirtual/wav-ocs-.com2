@@ -1,4 +1,4 @@
-﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="wav ocs1.aspx.vb" Inherits="wav_ocs.com2.wav_ocs1" %>
+﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="support1.aspx.vb" Inherits="wav_ocs.com2.support1" %>
 
 <!DOCTYPE html>
 
@@ -6,13 +6,11 @@
 <head runat="server">
     <title></title>
     <style type="text/css">
+
         .auto-style1 {
             margin-bottom: 9px;
         }
-        .auto-style2 {
-            margin-right: 0px;
-        }
-    </style>
+        </style>
 </head>
 <body>
     <form id="form1" runat="server">
@@ -21,11 +19,10 @@
             <asp:Button ID="Button4" runat="server" CssClass="auto-style1" Height="27px" Text="contact us" Width="177px" BackColor="#000099" ForeColor="White" />
             <asp:Button ID="Button5" runat="server" CssClass="auto-style1" Height="27px" Text="login" Width="177px" BackColor="#000099" ForeColor="White" />
             <asp:Button ID="Button6" runat="server" CssClass="auto-style1" Height="27px" Text="purchase wav ocs game" Width="177px" BackColor="#000099" ForeColor="White" />
-            <br />
-            <asp:Image ID="Image1" runat="server" CssClass="auto-style1" Height="71px" ImageUrl="~/SRFTHFH.png" Width="1581px" />
-            <br />
         </div>
-        <asp:Image ID="Image2" runat="server" CssClass="auto-style2" Height="406px" ImageUrl="~/EJGGGW.PNG" Width="1579px" />
+        <p>
+            <asp:Image ID="Image1" runat="server" CssClass="auto-style1" Height="71px" ImageUrl="~/SRFTHFH.png" Width="1581px" />
+        </p>
     </form>
 </body>
 </html>
