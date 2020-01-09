@@ -85,7 +85,7 @@
                 <tr>
                     <td class="auto-style3">Username</td>
                     <td class="auto-style5">
-                        <asp:TextBox ID="TextBox1_uname" runat="server" BackColor="Blue" CssClass="auto-style17" ForeColor="White" style="font-size: x-large" Width="425px"></asp:TextBox>
+                        <asp:TextBox ID="TextBox1_uname" runat="server" BackColor="Blue" CssClass="auto-style17" ForeColor="White" style="font-size: xx-large" Width="425px"></asp:TextBox>
                     </td>
                 </tr>
                 <tr>
