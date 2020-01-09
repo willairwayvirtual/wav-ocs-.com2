@@ -21,9 +21,6 @@
             width: 100%;
             border: 1px solid #0000FF;
         }
-        .auto-style5 {
-            width: 883px;
-        }
         .auto-style6 {
             width: 883px;
             text-align: center;
@@ -57,12 +54,7 @@
                     <asp:Button ID="Button7" runat="server" BackColor="#0000CC" CssClass="auto-style7" ForeColor="White" Text="Download now" Width="1067px" />
                 </td>
             </tr>
-            <tr>
-                <td class="auto-style5">&nbsp;</td>
-                <td>&nbsp;</td>
-                <td>&nbsp;</td>
-            </tr>
-        </table>
+            </table>
     </form>
 </body>
 </html>
