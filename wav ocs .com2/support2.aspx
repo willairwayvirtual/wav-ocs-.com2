@@ -17,6 +17,38 @@
             margin-right: 4px;
             margin-top: 3px;
         }
+        h1
+	{margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	line-height:107%;
+	page-break-after:avoid;
+	font-size:16.0pt;
+	font-family:"Calibri Light",sans-serif;
+	color:#2F5496;
+	font-weight:normal;
+        }
+        .auto-style4 {
+            text-indent: -18.0pt;
+            line-height: 107%;
+            font-size: 11.0pt;
+            font-family: Calibri, sans-serif;
+            margin-left: 36.0pt;
+            margin-right: 0cm;
+            margin-top: 0cm;
+            margin-bottom: .0001pt;
+        }
+        .auto-style5 {
+            line-height: 107%;
+            font-size: 11.0pt;
+            font-family: Calibri, sans-serif;
+            margin-left: 36.0pt;
+            margin-right: 0cm;
+            margin-top: 0cm;
+            margin-bottom: 8.0pt;
+        }
         </style>
 </head>
 <body>
@@ -37,5 +69,69 @@
             &nbsp;</p>
         </div>
     </form>
+    <div style="mso-element:para-border-div;border:none;border-top:solid #223C58 1.0pt;
+mso-border-top-alt:solid #223C58 .75pt;padding:6.0pt 0cm 0cm 0cm">
+        <h1 style="margin-top:0cm;border:none;mso-border-top-alt:solid #223C58 .75pt;
+padding:0cm;mso-padding-alt:6.0pt 0cm 0cm 0cm"><span style="font-size:11.0pt;
+line-height:107%;font-family:&quot;Helvetica&quot;,sans-serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;color:red;letter-spacing:.55pt;mso-font-kerning:18.0pt;
+mso-fareast-language:EN-GB">1.</span><span style="font-size:11.0pt;line-height:
+107%;font-family:&quot;Helvetica&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+color:white;letter-spacing:.55pt;mso-font-kerning:18.0pt;mso-fareast-language:
+EN-GB">. </span><span style="font-size:11.0pt;line-height:107%;font-family:
+&quot;Helvetica&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:red;
+letter-spacing:.55pt;mso-font-kerning:18.0pt;mso-fareast-language:EN-GB">SySystem Requirements</span><span style="font-family:&quot;Helvetica&quot;,sans-serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:white;letter-spacing:.55pt;
+mso-font-kerning:18.0pt;mso-fareast-language:EN-GB">tem Requirements<o:p></o:p></span></h1>
+    </div>
+    <p class="MsoNormal">
+        <span style="font-family:&quot;Helvetica&quot;,sans-serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;color:red;letter-spacing:.4pt;mso-fareast-language:EN-GB">&nbsp;Windows 10 or later, installed wav ocs &nbsp;<b>only</b>, 50+ MBytes on hard drive. The tool was designed wav ocs versions 1. All adjustments and tweaks are unavailable for unsupported versions.<o:p></o:p></span></p>
+    <div style="mso-element:para-border-div;border:none;border-top:solid #223C58 1.0pt;
+mso-border-top-alt:solid #223C58 .75pt;padding:6.0pt 0cm 0cm 0cm">
+        <p class="MsoNormal">
+            <span style="font-family:&quot;Helvetica&quot;,sans-serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:red;letter-spacing:.55pt;
+mso-font-kerning:18.0pt;mso-fareast-language:EN-GB">2. How to install wav ocs<o:p></o:p></span></p>
+        <p class="MsoNormal">
+            <span style="font-family:&quot;Helvetica&quot;,sans-serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:red;letter-spacing:.55pt;
+mso-font-kerning:18.0pt;mso-fareast-language:EN-GB">Wav ocs </span><span style="font-family:&quot;Helvetica&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+color:red;letter-spacing:.4pt;mso-fareast-language:EN-GB">is a standalone portable application and not requires specific installation procedure. Just unzip distribution archive in separate directory that not requires administrative privilegies<o:p></o:p></span></p>
+    </div>
+    <div style="mso-element:para-border-div;border:none;border-top:solid #223C58 1.0pt;
+mso-border-top-alt:solid #223C58 .75pt;padding:6.0pt 0cm 0cm 0cm">
+        <p class="MsoNormal">
+            <span style="font-family:&quot;Helvetica&quot;,sans-serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:red;letter-spacing:.55pt;
+mso-font-kerning:18.0pt;mso-fareast-language:EN-GB">3. Uninstalling </span><span style="font-family:&quot;Helvetica&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+color:red;letter-spacing:.4pt;mso-fareast-language:EN-GB">wav ocs</span><span style="font-family:&quot;Helvetica&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+color:red;letter-spacing:.55pt;mso-font-kerning:18.0pt;mso-fareast-language:
+EN-GB"><o:p></o:p></span></p>
+    </div>
+    <p class="MsoNormal">
+        <span style="font-family:&quot;Helvetica&quot;,sans-serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;color:red;letter-spacing:.4pt;mso-fareast-language:EN-GB">Since the utility makes changes to the shaders of wavocs it&#39;s important to restore them to original state.&nbsp;<b>Please don&#39;t forget about step #1.<o:p></o:p></b></span></p>
+    <p class="auto-style4" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-add-space: auto; mso-list: l0 level1 lfo1">
+        <![if !supportLists]><span style="font-family:&quot;Helvetica&quot;,sans-serif;mso-fareast-font-family:Helvetica;
+color:red;letter-spacing:.4pt;mso-fareast-language:EN-GB"><span style="mso-list:Ignore">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><![endif]><span style="font-family:&quot;Helvetica&quot;,sans-serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:red;letter-spacing:.4pt;
+mso-fareast-language:EN-GB">Use &quot;Restore original wav ocs<b> </b>shaders&quot; in Actions menu. All shaders that was properly stored in backup will be restored to Windows 10<o:p></o:p></span></p>
+    <p class="auto-style4" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-add-space: auto; mso-list: l0 level1 lfo1">
+        <![if !supportLists]><span style="font-family:&quot;Helvetica&quot;,sans-serif;mso-fareast-font-family:Helvetica;
+color:red;letter-spacing:.4pt;mso-fareast-language:EN-GB"><span style="mso-list:Ignore">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><![endif]><span style="font-family:&quot;Helvetica&quot;,sans-serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:red;letter-spacing:.4pt;
+mso-fareast-language:EN-GB">. Use &quot;Restore initial config files&quot; in Actions menu. Main config file that <o:p></o:p></span>
+    </p>
+    <p class="auto-style4" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-add-space: auto; mso-list: l0 level1 lfo1">
+        <![if !supportLists]><span style="font-family:&quot;Helvetica&quot;,sans-serif;mso-fareast-font-family:Helvetica;
+color:red;letter-spacing:.4pt;mso-fareast-language:EN-GB"><span style="mso-list:Ignore">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><![endif]><span style="font-family:&quot;Helvetica&quot;,sans-serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:red;letter-spacing:.4pt;
+mso-fareast-language:EN-GB">was properly stored in backup, will be restored.<br />
+        <span style="mso-spacerun:yes">&nbsp;</span>Delete main directory of wav ocs<o:p></o:p></span></p>
+    <p class="auto-style5" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-add-space: auto;">
+        <span style="font-family:&quot;Helvetica&quot;,sans-serif;
+color:red;letter-spacing:.4pt">Uninstalling complete.</span><b><span style="font-family:&quot;Helvetica&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+color:red;letter-spacing:.4pt;mso-fareast-language:EN-GB"><o:p></o:p></span></b></p>
 </body>
 </html>
