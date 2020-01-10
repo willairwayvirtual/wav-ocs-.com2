@@ -1,4 +1,7 @@
-﻿Public Class contact_us1
+﻿Imports System.IO
+Imports System.Net
+Imports System.Net.Mail
+Public Class contact_us1
     Inherits System.Web.UI.Page
 
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
@@ -19,5 +22,24 @@
 
     Private Sub Button6_Click(sender As Object, e As EventArgs) Handles Button6.Click
         Response.Redirect("login.aspx")
+    End Sub
+
+    Private Sub Button7_Click(sender As Object, e As EventArgs) Handles Button7.Click
+        Dim mail As New MailMessage
+        mail.Subject = MailSubject.Text
+        ' mail.To.Add("Wavuserhelpdesk@hotmail.com")
+        mail.To.Add("Wavuserhelpdesk@hotmail.com")
+        mail.From = New MailAddress("Wavuserhelpdesk@hotmail.com")
+        mail.Body = "From: " & (Umail11.Text) & " Query Text: " & Qry.Text
+        'mail.Body = "From: Dad"
+        Dim smtp As New SmtpClient("smtp-mail.outlook.com")
+        'Dim smtp As New SmtpClient("smtp.live.com")
+        smtp.EnableSsl = True
+        smtp.Credentials = New System.Net.NetworkCredential("Wavuserhelpdesk@hotmail.com", "Spongebob97")
+        smtp.Port = "587"
+        'smtp.Port = "25"
+        smtp.Send(mail)
+        Label5.Text = ("Thank you for your enquiry")
+
     End Sub
 End Class
