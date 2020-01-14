@@ -73,7 +73,7 @@
                 </table>
                 </span>
             </div>
-            </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="auto-style18">&nbsp;<asp:Button ID="Button1_update" runat="server" BackColor="#FF9900" CssClass="auto-style12" Height="86px" Text="Update Password " Width="835px" />
+            </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="auto-style18">&nbsp;<asp:Button ID="Button1_update" runat="server" BackColor="Blue" CssClass="auto-style12" Height="86px" Text="Update Password " Width="835px" ForeColor="White" />
             <p class="auto-style11">
                 <asp:Label ID="Label3" runat="server" CssClass="auto-style1" Text="Reset&nbsp; your Password "></asp:Label>
             </p>

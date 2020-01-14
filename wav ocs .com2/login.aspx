@@ -107,15 +107,15 @@
         </div>
         <p class="auto-style13">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <asp:Button ID="Button1l" runat="server" BackColor="#FF9900" CssClass="auto-style6" Height="41px" Text="Login" Width="315px" />
-            <asp:Button ID="Button4" runat="server" BackColor="#666666" BorderColor="White" CssClass="auto-style6" Height="42px" Text="register" Width="327px" />
+            <asp:Button ID="Button1l" runat="server" BackColor="Blue" CssClass="auto-style6" Height="41px" Text="Login" Width="315px" ForeColor="White" />
+            <asp:Button ID="Button4" runat="server" BackColor="Blue" BorderColor="White" CssClass="auto-style18" Height="42px" Text="register" Width="327px" ForeColor="White" />
         </p>
         <p class="auto-style12">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         </p>
         <p class="auto-style11">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <asp:Button ID="Button5" runat="server" BackColor="#666666" BorderColor="#999999" CssClass="auto-style14" Text="Reset your password" Width="698px" />
+            <asp:Button ID="Button5" runat="server" BackColor="Blue" BorderColor="#999999" CssClass="auto-style14" Text="Reset your password" Width="698px" ForeColor="White" style="font-size: x-large" />
         </p>
         <p class="auto-style11">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
