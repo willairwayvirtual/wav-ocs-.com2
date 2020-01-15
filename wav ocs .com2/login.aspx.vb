@@ -18,9 +18,7 @@ Public Class login
         Response.Redirect("login.aspx")
     End Sub
 
-    Private Sub Button5_Click(sender As Object, e As EventArgs) Handles Button5.Click
-        Response.Redirect("Reset your password.aspx")
-    End Sub
+
 
     Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
         Response.Redirect("Create an Accountaspx.aspx")
