@@ -62,6 +62,10 @@
         .auto-style18 {
             font-size: xx-large;
         }
+        .auto-style19 {
+            height: 42px;
+            width: 1026px;
+        }
     </style>
 </head>
 <body>
@@ -108,14 +112,16 @@
         <p class="auto-style13">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <asp:Button ID="Button1l" runat="server" BackColor="Blue" CssClass="auto-style6" Height="41px" Text="Login" Width="315px" ForeColor="White" />
-            <asp:Button ID="Button4" runat="server" BackColor="Blue" BorderColor="White" CssClass="auto-style18" Height="42px" Text="register" Width="327px" ForeColor="White" />
+            <asp:Button ID="Button4" runat="server" BackColor="Blue" BorderColor="White" CssClass="auto-style18" Height="40px" Text="register" Width="339px" ForeColor="White" />
         </p>
         <p class="auto-style12">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         </p>
-        <p class="auto-style11">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <p class="auto-style19">
+            <strong><span class="auto-style18">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </span>
             <asp:Label ID="Label3" runat="server" CssClass="auto-style18" Text="please go to www.willairwayvirtual.com/ResetPassword"></asp:Label>
+            </strong>
         </p>
         <p class="auto-style11">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
