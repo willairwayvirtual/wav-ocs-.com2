@@ -66,6 +66,10 @@
             height: 42px;
             width: 1026px;
         }
+        .auto-style20 {
+            font-weight: bold;
+            font-size: xx-large;
+        }
     </style>
 </head>
 <body>
@@ -118,9 +122,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         </p>
         <p class="auto-style19">
-            <strong><span class="auto-style18">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <strong><span class="auto-style18">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<asp:Button ID="Button9" runat="server" BackColor="#0000CC" CssClass="auto-style20" ForeColor="White" Height="53px" Text="Reset your password" Width="744px" />
             </span>
-            <asp:Label ID="Label3" runat="server" CssClass="auto-style18" Text="please go to www.willairwayvirtual.com/ResetPassword"></asp:Label>
             </strong>
         </p>
         <p class="auto-style11">

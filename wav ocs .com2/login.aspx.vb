@@ -19,7 +19,6 @@ Public Class login
     End Sub
 
 
-
     Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
         Response.Redirect("Create an Accountaspx.aspx")
     End Sub
@@ -52,5 +51,9 @@ Public Class login
         Else
             Label2.Text = "YOU DONT EXIST"
         End If
+    End Sub
+
+    Private Sub Button9_Click(sender As Object, e As EventArgs) Handles Button9.Click
+        Response.Redirect("Reset your passwordaspx.aspx")
     End Sub
 End Class
