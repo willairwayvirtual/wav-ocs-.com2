@@ -1,4 +1,4 @@
-﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="Reset your passwordaspx.aspx.vb" Inherits="wav_ocs.com2.Reset_your_passwordaspx" %>
+﻿e<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="Reset your passwordaspx.aspx.vb" Inherits="wav_ocs.com2.Reset_your_passwordaspx" %>
 
 <!DOCTYPE html>
 
