@@ -97,6 +97,7 @@
     <Content Include="Create an Accountaspx.aspx" />
     <Content Include="DownloadCenter.aspx" />
     <Content Include="EJGGGW.PNG" />
+    <Content Include="email templates\SignUp.html" />
     <Content Include="login.aspx" />
     <Content Include="Reset your passwordaspx.aspx" />
     <Content Include="SRFTHFH.png" />

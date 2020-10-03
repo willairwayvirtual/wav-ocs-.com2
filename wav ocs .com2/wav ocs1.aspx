@@ -26,6 +26,9 @@
             <br />
         </div>
         <asp:Image ID="Image2" runat="server" CssClass="auto-style2" Height="406px" ImageUrl="~/EJGGGW.PNG" Width="1579px" />
+        <p style="text-align: center">
+            <asp:Label ID="Label4" runat="server" BackColor="#3366CC" Text="made by Wij Software and web and game development company "></asp:Label>
+        </p>
     </form>
 </body>
 </html>

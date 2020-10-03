@@ -1,4 +1,7 @@
 ﻿Imports System.Data.OleDb '
+Imports System.IO
+Imports System.Net.Mail
+
 Public Class Create_an_Accountaspx
     Inherits System.Web.UI.Page
     Dim cn As New OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\VisStudioProj\wav web\willairwayvirtual34\willairwayvirtual34\app_data\willairwayvirtualDbv1.accdb")
@@ -45,6 +48,25 @@ Public Class Create_an_Accountaspx
             Label1.Text = ex.Message
 
         End Try
+        Dim mail As New MailMessage
+
+        ' mail.To.Add("Wavuserhelpdesk@hotmail.com")
+
+        Dim body As String = String.Empty
+        Dim reader As StreamReader = New StreamReader("C:\VisStudioProj\wav login Desktop App23\wav login Desktop App23\email_template.htm")
+        Dim smtp As New SmtpClient("smtp-mail.outlook.com")
+
+        mail.To.Add(TextBox4_email.Text)
+        mail.From = New MailAddress("Wavuserhelpdesk@hotmail.com")
+        mail.Body = reader.ReadToEnd
+        mail.IsBodyHtml = True
+
+        smtp.EnableSsl = True
+        smtp.Credentials = New System.Net.NetworkCredential("Wavuserhelpdesk@hotmail.com", "Spongebob97")
+        smtp.Port = "587"
+        'smtp.Port = "25"
+        smtp.Send(mail)
+
     End Sub
 
 End Class

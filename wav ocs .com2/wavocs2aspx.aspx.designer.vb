@@ -84,4 +84,13 @@ Partial Public Class wavocs2aspx
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents Image2 As Global.System.Web.UI.WebControls.Image
+
+    '''<summary>
+    '''Label4 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents Label4 As Global.System.Web.UI.WebControls.Label
 End Class

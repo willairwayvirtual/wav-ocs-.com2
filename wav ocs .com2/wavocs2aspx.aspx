@@ -18,7 +18,7 @@
         }
     </style>
 </head>
-<body>
+<body style="text-align: left">
     <form id="form1" runat="server">
         <div>
             <asp:Label ID="Label1" runat="server" CssClass="auto-style3" Text="Label"></asp:Label>
@@ -34,8 +34,9 @@
         <p>
             <asp:Image ID="Image2" runat="server" Height="490px" ImageUrl="~/EJGGGW.PNG" Width="1540px" />
         </p>
-        <p>
-            &nbsp;</p>
+        <p style="text-align: center">
+            <asp:Label ID="Label4" runat="server" BackColor="#3366CC" Text="made by Wij Software and web and game development company "></asp:Label>
+        </p>
     </form>
 </body>
 </html>
