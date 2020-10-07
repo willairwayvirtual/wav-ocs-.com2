@@ -49,7 +49,7 @@ Public Class Create_an_Accountaspx
 
         End Try
         Dim mail As New MailMessage
-
+        mail.Subject = "Welcome to wav  OCS "
         ' mail.To.Add("Wavuserhelpdesk@hotmail.com")
 
         Dim body As String = String.Empty
