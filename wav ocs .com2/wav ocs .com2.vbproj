@@ -99,7 +99,6 @@
     <Content Include="EJGGGW.PNG" />
     <Content Include="email templates\SignUp.html" />
     <Content Include="login.aspx" />
-    <Content Include="Reset your passwordaspx.aspx" />
     <Content Include="SRFTHFH.png" />
     <Content Include="support1.aspx" />
     <Content Include="support2.aspx" />
@@ -161,13 +160,6 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
-    </Compile>
-    <Compile Include="Reset your passwordaspx.aspx.designer.vb">
-      <DependentUpon>Reset your passwordaspx.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Reset your passwordaspx.aspx.vb">
-      <DependentUpon>Reset your passwordaspx.aspx</DependentUpon>
-      <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="support1.aspx.designer.vb">
       <DependentUpon>support1.aspx</DependentUpon>
