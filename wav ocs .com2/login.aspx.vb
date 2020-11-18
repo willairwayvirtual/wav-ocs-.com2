@@ -53,7 +53,5 @@ Public Class login
         End If
     End Sub
 
-    Private Sub Button9_Click(sender As Object, e As EventArgs) Handles Button9.Click
-        Response.Redirect("Reset your passwordaspx.aspx")
-    End Sub
+
 End Class
