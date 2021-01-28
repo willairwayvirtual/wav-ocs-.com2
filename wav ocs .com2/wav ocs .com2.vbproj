@@ -92,6 +92,11 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="1Capture %282%29.PNG" />
+    <Content Include="2Capture.PNG" />
+    <Content Include="3Capture.PNG" />
+    <Content Include="5Capture %282%29.PNG" />
+    <Content Include="9Capture.PNG" />
     <Content Include="contact us1.aspx" />
     <Content Include="contact2.aspx" />
     <Content Include="Create an Accountaspx.aspx" />

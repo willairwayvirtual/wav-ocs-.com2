@@ -37,6 +37,13 @@
         <p style="text-align: center">
             <asp:Label ID="Label4" runat="server" BackColor="#3366CC" Text="made by Wij Software and web and game development company "></asp:Label>
         </p>
+        <p style="text-align: center">
+            <asp:Image ID="Image3" runat="server" Height="172px" ImageUrl="~/1Capture (2).PNG" Width="493px" />
+            <asp:Image ID="Image4" runat="server" Height="174px" ImageUrl="~/2Capture.PNG" Width="662px" />
+            <asp:Image ID="Image5" runat="server" Height="171px" ImageUrl="~/3Capture.PNG" Width="539px" />
+            <asp:Image ID="Image6" runat="server" Height="179px" ImageUrl="~/5Capture (2).PNG" Width="830px" />
+            <asp:Image ID="Image7" runat="server" Height="191px" ImageUrl="~/9Capture.PNG" Width="543px" />
+        </p>
     </form>
 </body>
 </html>
