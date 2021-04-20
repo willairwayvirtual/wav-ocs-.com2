@@ -12,6 +12,9 @@
         .auto-style2 {
             margin-right: 0px;
         }
+        #form1 {
+            text-align: center;
+        }
     </style>
 </head>
 <body>
@@ -34,7 +37,9 @@
         <asp:Image ID="Image5" runat="server" Height="171px" ImageUrl="~/3Capture.PNG" Width="511px" />
         <asp:Image ID="Image6" runat="server" Height="190px" ImageUrl="~/5Capture (2).PNG" Width="840px" />
         <asp:Image ID="Image7" runat="server" Height="161px" ImageUrl="~/9Capture.PNG" Width="359px" />
-        <asp:Image ID="Image8" runat="server" ImageUrl="~/available on steam and ith.io12 all three platforms2.png" />
+        <br />
+            <asp:Image ID="Image9" runat="server" ImageUrl="~/available on steam and ith.io12 all tow platforms23.png" Height="189px" Width="620px" />
+        <br />
         <br />
         <br />
         <p>

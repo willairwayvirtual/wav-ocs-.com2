@@ -43,7 +43,9 @@
             <asp:Image ID="Image5" runat="server" Height="171px" ImageUrl="~/3Capture.PNG" Width="539px" />
             <asp:Image ID="Image6" runat="server" Height="179px" ImageUrl="~/5Capture (2).PNG" Width="830px" />
             <asp:Image ID="Image7" runat="server" Height="191px" ImageUrl="~/9Capture.PNG" Width="543px" />
-            <asp:Image ID="Image9" runat="server" ImageUrl="~/available on steam and ith.io12 all three platforms2.png" />
+        </p>
+        <p style="text-align: center">
+            <asp:Image ID="Image9" runat="server" ImageUrl="~/available on steam and ith.io12 all tow platforms23.png" Height="189px" Width="620px" />
         </p>
     </form>
 </body>

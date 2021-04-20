@@ -131,11 +131,11 @@ Partial Public Class wav_ocs1
     Protected WithEvents Image7 As Global.System.Web.UI.WebControls.Image
 
     '''<summary>
-    '''Image8 control.
+    '''Image9 control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents Image8 As Global.System.Web.UI.WebControls.Image
+    Protected WithEvents Image9 As Global.System.Web.UI.WebControls.Image
 End Class
