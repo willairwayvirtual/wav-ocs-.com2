@@ -48,7 +48,7 @@
         </div>
         <table class="auto-style4">
             <tr>
-                <td class="auto-style6">WAVOCS setup(x86)</td>
+                <td class="auto-style6">WAVOCS setup</td>
                 <td>&nbsp;</td>
                 <td>
                     <asp:Button ID="Button7" runat="server" BackColor="#0000CC" CssClass="auto-style7" ForeColor="White" Text="Download now" Width="1067px" />

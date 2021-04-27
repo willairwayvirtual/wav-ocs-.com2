@@ -19,8 +19,8 @@
 
     Private Sub Button7_Click(sender As Object, e As EventArgs) Handles Button7.Click
         Response.ContentType = "image/.exe"
-        Response.AppendHeader("Content-Disposition", "attachment; filename=WAVOCS setup(x86).exe")
-        Response.TransmitFile(Server.MapPath("app_data/downloads/WAVOCS setup(x86).exe"))
+        Response.AppendHeader("Content-Disposition", "attachment; filename=WAVOCS setup.exe")
+        Response.TransmitFile(Server.MapPath("app_data/downloads/WAVOCS setup.exe"))
         Response.End()
     End Sub
 End Class
