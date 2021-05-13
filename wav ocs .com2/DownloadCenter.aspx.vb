@@ -25,7 +25,7 @@
     End Sub
 
     Private Sub Button8_Click(sender As Object, e As EventArgs) Handles Button8.Click
-        Response.ContentType = "image/.ip"
+        Response.ContentType = "image/.Zip"
         Response.AppendHeader("Content-Disposition", "attachment; filename=wavocs linux .zip")
         Response.TransmitFile(Server.MapPath("app_data/downloads/wavocs linux .zip"))
     End Sub
