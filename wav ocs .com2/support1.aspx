@@ -42,6 +42,10 @@
             margin-top: 0cm;
             margin-bottom: 8.0pt;
         }
+        .auto-style4 {
+            width: 830px;
+            height: 123px;
+        }
         </style>
 </head>
 <body>
@@ -120,5 +124,7 @@ mso-fareast-language:EN-GB">was properly stored in backup, will be restored.<br 
         <span style="font-family:&quot;Helvetica&quot;,sans-serif;
 color:red;letter-spacing:.4pt">Uninstalling complete.</span><b><span style="font-family:&quot;Helvetica&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
 color:red;letter-spacing:.4pt;mso-fareast-language:EN-GB"><o:p></o:p></span></b></p>
+    <p class="auto-style3" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-add-space: auto">
+        <img alt="" class="auto-style4" longdesc="https://localhost:44302/available on steam and ith.io12 all tow platforms23.png" src="available%20on%20steam%20and%20ith.io12%20all%20three%20platforms2.png" /></p>
 </body>
 </html>
