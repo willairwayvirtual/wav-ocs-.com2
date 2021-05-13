@@ -55,6 +55,15 @@
                 </td>
             </tr>
             </table>
+        <table class="auto-style4">
+            <tr>
+                <td class="auto-style6">WAVOCS setup linux</td>
+                <td>&nbsp;</td>
+                <td>
+                    <asp:Button ID="Button8" runat="server" BackColor="#0000CC" CssClass="auto-style7" ForeColor="White" Text="Download now" Width="1067px" />
+                </td>
+            </tr>
+            </table>
     </form>
 </body>
 </html>
